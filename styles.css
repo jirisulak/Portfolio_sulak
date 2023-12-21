@@ -108,7 +108,9 @@
   
   
   /* nav */
-  
+  #nadpis{
+    margin-right: 50%;
+  }
   .nav {
     display: flex;
     justify-content: flex-end;
@@ -119,6 +121,7 @@
     background: var(--main-red);
     box-shadow: 0 2px 0 rgba(0, 0, 0, 0.4);
     z-index: 10;
+    
   }
   
   .nav-list {
